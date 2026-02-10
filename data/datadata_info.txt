@@ -1,0 +1,27 @@
+Dataset: Online Retail
+Source: UCI Machine Learning Repository
+
+Description:
+This dataset contains all transactions occurring between 
+01/12/2010 and 09/12/2011 for a UK-based online retail.
+
+Features:
+- InvoiceNo: Invoice number
+- StockCode: Product code  
+- Description: Product description
+- Quantity: Quantity purchased
+- InvoiceDate: Invoice date and time
+- UnitPrice: Unit price
+- CustomerID: Customer number
+- Country: Country name
+
+Statistics:
+- 541,909 transactions
+- 4,372 customers
+- 37 countries
+- Time span: 1 year
+
+To Download:
+1. Visit: https://archive.ics.uci.edu/ml/datasets/Online+Retail
+2. Download the dataset
+3. Place in this folder as 'online_retail.csv'
